@@ -21,7 +21,7 @@ Install the follwoing files in remote server.
 ## Tasks
 
 #### Api 1
- - End point : /api/total_items ,
+ - End point : /api/total_items 
  - API Use Cases :
    - Total item (total seats) sold in Marketting for last in q3 of the year?
    - Expected O/P: returns integer
@@ -34,7 +34,7 @@ Link : http://127.0.0.1:5000/api/total_items?start_date=2022-07-01&end_date=2022
 
 
 #### Api 2
- - End point : /api/nth_most_total_item ,
+ - End point : /api/nth_most_total_item 
  - API Use Cases :
    -  What is the 2nd most sold item in terms of quantity sold in q4?
    -  What is the 4th most sold item in terms of Total price in q2?
