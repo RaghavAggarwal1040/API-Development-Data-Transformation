@@ -77,6 +77,6 @@ Link :  http://127.0.0.1:5000/api/monthly_sales?product=Outplay&year=2022
 
 ## Feedback
 
-If you have any feedback, please reach out to us at raghav.aggarwal2001@gmail.com || https://raghavaggarwalportfolio.netlify.app/
+If you have any feedback, please reach out at raghav.aggarwal2001@gmail.com || https://raghavaggarwalportfolio.netlify.app/
 
 
